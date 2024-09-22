@@ -2,8 +2,8 @@
 #define int long long
 using namespace std;
 
- main() {//freopen("DHH.inp","r",stdin);
-  //freopen("DHH.out","w",stdout);
+ main() {//freopen("seq3.inp","r",stdin);
+  //freopen("seq3.out","w",stdout);
     int N;
     cin >> N;
 int  a[N+1];
